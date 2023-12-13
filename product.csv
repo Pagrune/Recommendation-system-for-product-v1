@@ -1,61 +1,31 @@
-id,title,tag1,tag2,tag3,tag4
-01,Classic Vanilla Ice Cream,ice cream,vanilla,dessert,classic
-02,Rich Chocolate Delight,ice cream,chocolate,dessert,classic
-03,Refreshing Strawberry Sorbet,sorbet,strawberry,dessert,fruits
-04,Mint Chocolate Chip Bliss,ice cream,mint,chocolate,dessert
-05,Caramel Indulgence,ice cream,caramel,dessert,gourmand
-06,Zesty Lemon Sorbet,sorbet,lemon,dessert,fruits
-07,Crunchy Pistachio Pleasure,ice cream,pistachio,dessert,classic
-08,Decadent Mocha Madness,ice cream,mocha,dessert,gourmand
-09,Cherry Jubilee,ice cream,cherry,dessert,fruits
-10,Hazelnut Heaven,ice cream,hazelnut,dessert,gourmand
-11,Tropical Pineapple Twist,sorbet,pineapple,dessert,fruits
-12,Cherry Amaretto Delight,ice cream,cherry,amaretto,dessert
-13,White Chocolate Raspberry Elegance,ice cream,white chocolate,raspberry,dessert
-14,Mango Tango,ice cream,mango,dessert,fruits
-15,Italian Stracciatella Supreme,ice cream,stracciatella,dessert,classic
-16,Banana Bliss,ice cream,banana,dessert,fruits
-17,Espresso Extravaganza,ice cream,espresso,dessert,gourmand
-18,Blackcurrant Burst,sorbet,blackcurrant,dessert,fruits
-19,Dark Chocolate Delight,ice cream,dark chocolate,dessert,gourmand
-20,Blueberry Burst,sorbet,blueberry,dessert,fruits
-21,Amaretto Dream,ice cream,amaretto,dessert,gourmand
-22,Zesty Lime Sorbet,sorbet,lime,dessert,fruits
-23,Milk Chocolate Marvel,ice cream,milk chocolate,dessert,gourmand
-24,Peach Perfection,ice cream,peach,dessert,fruits
-25,Tiramisu Temptation,ice cream,tiramisu,dessert,gourmand
-26,Pear Paradise,ice cream,pear,dessert,fruits
-27,Crispy Chocolate Hazelnut,ice cream,chocolate hazelnut,dessert,gourmand
-28,Orange Burst,ice cream,orange,dessert,fruits
-29,Praline Pleasure,ice cream,praline,dessert,gourmand
-30,Apple Harvest,ice cream,apple,dessert,fruits
-31,Strawberry Sorbet Sensation,sorbet,strawberry sorbet,dessert,fruits
-32,Hazelnut Chocolate Delight,ice cream,hazelnut chocolate,dessert,gourmand
-33,Passionate Fruit Paradise,ice cream,passion fruit,dessert,fruits
-34,Yogurt Delight,ice cream,yogurt,dessert,gourmand
-35,Kiwi Kiss,sorbet,kiwi,dessert,fruits
-36,Salted Caramel Sensation,ice cream,salted caramel,dessert,gourmand
-37,Cherry Garcia Delight,ice cream,cherry,chocolate,dessert
-38,Melon Magic,ice cream,melon,dessert,fruits
-39,Raspberry Ripple Bliss,ice cream,raspberry,ripple,dessert
-40,Café au Lait Delight,ice cream,café au lait,dessert,gourmand
-41,Blueberry Burst,sorbet,blueberry,dessert,fruits
-42,Cookie Dough Craving,ice cream,cookie dough,dessert,gourmand
-43,Lychee Love,ice cream,lychee,dessert,fruits
-44,Rum Raisin Romance,ice cream,rum raisin,dessert,gourmand
-45,Blood Orange Delight,ice cream,blood orange,dessert,fruits
-46,Cookie and Cream Celebration,ice cream,cookie and cream,dessert,gourmand
-47,Grapefruit Glory,ice cream,grapefruit,dessert,fruits
-48,Pistachio Cherry Symphony,ice cream,pistachio,cherry,dessert
-49,Banana Chocolate Heaven,ice cream,banana,chocolate,dessert
-50,Lemon Meringue Euphoria,ice cream,lemon meringue,dessert,gourmand
-51,Coconut Cream Dream,ice cream,coconut,dessert,gourmand
-52,Orange Chocolate Delight,ice cream,orange chocolate,dessert,gourmand
-53,Strawberry Cheesecake Supreme,ice cream,strawberry cheesecake,dessert,gourmand
-54,Blackberry Bliss,sorbet,blackberry,dessert,fruits
-55,Chocolate Orange Delight,ice cream,chocolate orange,dessert,gourmand
-56,Strawberry Shortcake Sensation,ice cream,strawberry shortcake,dessert,gourmand
-57,Blackcurrant Bliss,sorbet,blackcurrant,dessert,fruits
-58,Chocolate Cherry Delight,ice cream,chocolate cherry,dessert,gourmand
-59,Strawberry Banana Bliss,ice cream,strawberry banana,dessert,fruits
-60,Chocolate Mint Delight,ice cream,chocolate mint,dessert,gourmand
+id,title,tag1,tag2,tag3,tag4,tag5,tag6,tag7,tag8
+01,Classic Vanilla Bliss,glace,vanilla,dessert,classic,variété de glace,concoction glacée,plaisir glacé,crème glacée
+02,Rich Chocolate Indulgence,glace,chocolate,dessert,classic,délice sucré,gâteau glacé,parfum de glace,concoction glacée
+03,Refreshing Strawberry Sensation,sorbet,strawberry,dessert,fruits,sorbet aux fruits,variété de glace,douceur glacée,rafraîchissement sucré
+04,Mint Chocolate Chip Delight,glace,mint,chocolate,dessert,crème glacée,délice glacé,parfum de glace,variété de glace
+05,Caramel Dream,glace,caramel,dessert,gourmand,plaisir sucré,friandise froide,rafraîchissement sucré,gâteau glacé
+06,Zesty Lemon Sorbet,glace,sorbet,lemon,dessert,sorbet aux fruits,parfum de glace,variété de glace,délice glacé
+07,Crunchy Pistachio Paradise,glace,pistachio,dessert,classic,délice glacé,variété de glace,concoction glacée,plaisir glacé
+08,Decadent Mocha Delight,glace,mocha,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,rafraîchissement sucré
+09,Cherry Jubilee Explosion,glace,cherry,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,plaisir glacé
+10,Hazelnut Heaven Symphony,glace,hazelnut,dessert,gourmand,délice glacé,variété de glace,concoction glacée,plaisir glacé
+11,Tropical Pineapple Bliss,sorbet,pineapple,dessert,fruits,sorbet aux fruits,parfum de glace,variété de glace,douceur glacée
+12,Cherry Amaretto Delight,glace,cherry,amaretto,dessert,délice sucré,variété de glace,concoction glacée,plaisir glacé
+13,White Chocolate Raspberry Fantasy,glace,white chocolate,raspberry,dessert,délice sucré,parfum de glace,variété de glace,concoction glacée
+14,Mango Tango Extravaganza,glace,mango,dessert,fruits,délice glacé,variété de glace,parfum de glace,rafraîchissement sucré
+15,Italian Stracciatella Delight,glace,stracciatella,dessert,classic,délice sucré,variété de glace,parfum de glace,concoction glacée
+16,Banana Bliss Eruption,glace,banana,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
+17,Espresso Extravaganza Delight,glace,espresso,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,concoction glacée
+18,Blackcurrant Burst Bliss,sorbet,blackcurrant,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
+19,Dark Chocolate Delight Symphony,glace,dark chocolate,dessert,gourmand,délice glacé,variété de glace,parfum de glace,concoction glacée
+20,Blueberry Burst Bliss,sorbet,blueberry,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
+21,Amaretto Dream Delight,glace,amaretto,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,concoction glacée
+22,Zesty Lime Sorbet Symphony,sorbet,lime,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,parfum de glace
+23,Milk Chocolate Marvel Delight,glace,milk chocolate,dessert,gourmand,délice glacé,variété de glace,concoction glacée,parfum de glace
+24,Peach Perfection Paradise,glace,peach,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée
+25,Tiramisu Temptation Extravaganza,glace,tiramisu,dessert,gourmand,délice sucré,variété de glace,parfum de glace,concoction glacée
+26,Pear Paradise Bliss,glace,pear,dessert,fruits,délice glacé,variété de glace,parfum de glace,rafraîchissement sucré
+27,Crispy Chocolate Hazelnut Delight,glace,chocolate hazelnut,dessert,gourmand,délice glacé,variété de glace,parfum de glace,concoction glacée
+28,Orange Burst Bliss,glace,orange,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée
+29,Praline Pleasure Paradise,glace,praline,dessert,gourmand,délice sucré,variété de glace,parfum de glace,concoction glacée
+30,Apple Harvest Symphony,glace,apple,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée

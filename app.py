@@ -11,7 +11,7 @@ df.info()
 
 
 
-sample_size = 20
+sample_size = 30
 df = df.sample(sample_size, replace=False, random_state=42)
 
 df = df.reset_index()
@@ -21,7 +21,7 @@ df = df.drop('index', axis=1)
 df['title'] = df['title'].str.lower()
 
 # make a new column that combines all text fields
-df2 = df['title'] + df['tag1'] + df['tag2'] + df['tag3'] + df['tag4']
+df2 = df['title'] + df['tag1'] + df['tag2'] + df['tag3'] + df['tag4'] + df['tag5'] + df['tag6'] + df['tag7'] + df['tag8']
 
 # print(df2.head())
 
@@ -34,7 +34,7 @@ print(similarities)
 df = pd.DataFrame(similarities, columns=df['title'], index=df['title']).reset_index()
 print(df.head())
 
-input_product = 'cherry garcia delight'
+input_product = 'zesty lime sorbet symphony'
 recommendations = pd.DataFrame(df.nlargest(11,input_product)['title'])
 recommendations = recommendations[recommendations['title']!=input_product]
 print(recommendations)
