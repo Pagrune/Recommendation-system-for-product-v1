@@ -1,31 +1,40 @@
 id,title,tag1,tag2,tag3,tag4,tag5,tag6,tag7,tag8
-01,Classic Vanilla Bliss,glace,vanilla,dessert,classic,variété de glace,concoction glacée,plaisir glacé,crème glacée
-02,Rich Chocolate Indulgence,glace,chocolate,dessert,classic,délice sucré,gâteau glacé,parfum de glace,concoction glacée
-03,Refreshing Strawberry Sensation,sorbet,strawberry,dessert,fruits,sorbet aux fruits,variété de glace,douceur glacée,rafraîchissement sucré
-04,Mint Chocolate Chip Delight,glace,mint,chocolate,dessert,crème glacée,délice glacé,parfum de glace,variété de glace
-05,Caramel Dream,glace,caramel,dessert,gourmand,plaisir sucré,friandise froide,rafraîchissement sucré,gâteau glacé
-06,Zesty Lemon Sorbet,glace,sorbet,lemon,dessert,sorbet aux fruits,parfum de glace,variété de glace,délice glacé
-07,Crunchy Pistachio Paradise,glace,pistachio,dessert,classic,délice glacé,variété de glace,concoction glacée,plaisir glacé
-08,Decadent Mocha Delight,glace,mocha,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,rafraîchissement sucré
-09,Cherry Jubilee Explosion,glace,cherry,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,plaisir glacé
-10,Hazelnut Heaven Symphony,glace,hazelnut,dessert,gourmand,délice glacé,variété de glace,concoction glacée,plaisir glacé
-11,Tropical Pineapple Bliss,sorbet,pineapple,dessert,fruits,sorbet aux fruits,parfum de glace,variété de glace,douceur glacée
-12,Cherry Amaretto Delight,glace,cherry,amaretto,dessert,délice sucré,variété de glace,concoction glacée,plaisir glacé
-13,White Chocolate Raspberry Fantasy,glace,white chocolate,raspberry,dessert,délice sucré,parfum de glace,variété de glace,concoction glacée
-14,Mango Tango Extravaganza,glace,mango,dessert,fruits,délice glacé,variété de glace,parfum de glace,rafraîchissement sucré
-15,Italian Stracciatella Delight,glace,stracciatella,dessert,classic,délice sucré,variété de glace,parfum de glace,concoction glacée
-16,Banana Bliss Eruption,glace,banana,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
-17,Espresso Extravaganza Delight,glace,espresso,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,concoction glacée
-18,Blackcurrant Burst Bliss,sorbet,blackcurrant,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
-19,Dark Chocolate Delight Symphony,glace,dark chocolate,dessert,gourmand,délice glacé,variété de glace,parfum de glace,concoction glacée
-20,Blueberry Burst Bliss,sorbet,blueberry,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,rafraîchissement sucré
-21,Amaretto Dream Delight,glace,amaretto,dessert,gourmand,parfum de glace,variété de glace,douceur glacée,concoction glacée
-22,Zesty Lime Sorbet Symphony,sorbet,lime,dessert,fruits,sorbet aux fruits,délice glacé,variété de glace,parfum de glace
-23,Milk Chocolate Marvel Delight,glace,milk chocolate,dessert,gourmand,délice glacé,variété de glace,concoction glacée,parfum de glace
-24,Peach Perfection Paradise,glace,peach,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée
-25,Tiramisu Temptation Extravaganza,glace,tiramisu,dessert,gourmand,délice sucré,variété de glace,parfum de glace,concoction glacée
-26,Pear Paradise Bliss,glace,pear,dessert,fruits,délice glacé,variété de glace,parfum de glace,rafraîchissement sucré
-27,Crispy Chocolate Hazelnut Delight,glace,chocolate hazelnut,dessert,gourmand,délice glacé,variété de glace,parfum de glace,concoction glacée
-28,Orange Burst Bliss,glace,orange,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée
-29,Praline Pleasure Paradise,glace,praline,dessert,gourmand,délice sucré,variété de glace,parfum de glace,concoction glacée
-30,Apple Harvest Symphony,glace,apple,dessert,fruits,délice glacé,variété de glace,rafraîchissement sucré,concoction glacée
+198,Vanilla Ice Cream,crème glacée,classique,dessert,été,sucré,original,enfants,baies
+199,Dark Chocolate Ice Cream,crème glacée,dessert,chocolat,hiver,intense,sucré,original,gourmand
+200,Salted Butter Caramel Ice Cream,crème glacée,dessert,sucré,original,gourmand,intense,hiver,baies
+201,Pistachio Ice Cream,crème glacée,dessert,gourmand,sucré,original,intense,été,baies
+202,Strawberry Ice Cream,crème glacée,dessert,fruité,été,sucré,exotique,original,baies
+203,Mocha Ice Cream,crème glacée,dessert,original,intense,sucré,hiver,gourmand,baies
+204,Coconut Ice Cream,crème glacée,dessert,exotique,été,sucré,original,gourmand,baies
+205,Raspberry Ice Cream,crème glacée,dessert,léger,fruité,été,sucré,original,baies
+206,Hazelnut Chocolate Ice Cream,crème glacée,dessert,gourmand,chocolat,sucré,original,intense,baies
+207,Mango Ice Cream,crème glacée,dessert,exotique,été,sucré,original,gourmand,baies
+208,Cookies & Cream Ice Cream,crème glacée,dessert,gourmand,original,sucré,intense,enfants,chocolat
+209,Cherry Ice Cream,crème glacée,dessert,été,intense,sucré,baies,original,gourmand
+210,Strawberry Sorbet,sorbet,fruité,dessert,printemps,été,bio,sucré,enfants
+211,Lemon Sorbet,sorbet,agrume,dessert,été,bio,sucré,rafraîchissant,acidulé
+212,Mango Sorbet,sorbet,fruité,dessert,été,exotique,sucré,bio,tropical
+213,Raspberry Sorbet,sorbet,fruité,dessert,été,gourmand,sucré,baies,acidulé
+214,Peach Sorbet,sorbet,fruité,dessert,été,sucré,bio,doux,peches
+215,Kiwi Sorbet,sorbet,fruité,dessert,été,rafraîchissant,sucré,acidulé,original
+216,Pineapple Sorbet,sorbet,fruité,dessert,été,exotique,sucré,tropical,original
+217,Blueberry Sorbet,sorbet,fruité,dessert,été,rafraîchissant,sucré,baies,acidulé
+218,Cherry Sorbet,sorbet,fruité,dessert,été,intense,sucré,baies,original
+219,Blood Orange Sorbet,sorbet,agrume,dessert,été,gourmand,sucré,acidulé,original
+220,Blackberry Sorbet,sorbet,fruité,dessert,été,intense,sucré,baies,original
+221,crispy cookies flakes,toppings,cookies,croustillant,gourmand,original,dessert,biscuits,délicieux
+222,fresh red fruits,toppings,fruits rouges,frais,fruité,été,dessert,original,rafraîchissant
+223,whipped cream,toppings,chantilly,leger,sucré,dessert,aérien,délicieux,original
+224,dark chocolate flakes,toppings,chocolat,gourmand,intense,dessert,original,délicieux,croustillant
+225,pistachio flakes,toppings,pistaches,croustillant,délicat,dessert,original,croquant,délicieux
+226,brownie pieces,toppings,brownie,fondant,chocolat,dessert,original,croustillant,moelleux
+227,caramelized peanuts flakes,toppings,cacahuètes,caramélisé,sucré,salé,dessert,original,croquant
+228,fresh mint flakes,toppings,menthe fraîche,fraîcheur,dessert,original,frais,bio
+229,raspberry sauce,toppings,fruits rouges,intense,fruité,dessert,original,bio,sucré
+230,white chocolate flakes,toppings,chocolat,sucré,crémeux,dessert,original,croquant,fondant
+231,professional ice cream machine,ustensiles,professionnel,glace,sorbet,métal,original,haute performance,efficace
+232,family ice cream machine,ustensiles,familial,glace,sorbet,métal,original,efficace,rapide
+233,stainless steel ice cream scoop,ustensiles,acier,glace,sorbet,métal,original,précis,ergonomique
+234,silicone ice cream mold,ustensiles,silicone,glace,sorbet,original,enfants,été,flexible
+235,granita machine,ustensiles,granité,sorbet,été,original,rafraîchissant,haute performance,efficace
+236,frozen yogurt machine,ustensiles,yaourt glacé,sorbet,été,original,léger,haute performance,efficace

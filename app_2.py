@@ -7,7 +7,7 @@ import joblib
 df = pd.read_csv('product.csv')
 
 # Sample a subset of the data
-sample_size = 30
+sample_size = 39
 df = df.sample(sample_size, replace=False, random_state=42)
 
 # Reset index
@@ -15,6 +15,9 @@ df = df.reset_index(drop=True)
 
 # Convert text fields to lowercase
 df['title'] = df['title'].str.lower()
+
+tag_columns = ['tag1', 'tag2', 'tag3', 'tag4', 'tag5', 'tag6', 'tag7', 'tag8']
+df[tag_columns] = df[tag_columns].astype(str)
 
 # Combine all text fields into a new column
 df['combined_text'] = df[['title', 'tag1', 'tag2', 'tag3', 'tag4', 'tag5', 'tag6', 'tag7', 'tag8']].agg(' '.join, axis=1)
